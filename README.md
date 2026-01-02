@@ -1,6 +1,6 @@
 # When Can AI Assess Financial Risk? A Scaling Study
 
-![Emergence Analysis](emergence_analysis.png)
+![Emergence Analysis]
 
 ## TL;DR
 Risk assessment capabilities emerge sharply around 2.7B parameters. Smaller models (355M) identify obvious risks but fail catastrophically on subtle/systemic risks, creating a dangerous "confident but wrong" zone.
