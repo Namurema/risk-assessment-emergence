@@ -1,0 +1,197 @@
+[
+  {
+    "model": "gpt2-medium",
+    "scenario_id": "E01",
+    "difficulty": "easy",
+    "response": "Severity: [level]\n\nExplanation: [reasoning]\n\nRisk 3: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 4: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 5: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 6: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 7: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 8: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 9: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 10: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 11: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 12: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 13: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 14: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 15: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 16: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 17: ...\n\nSeverity: [level]",
+    "metrics": {
+      "recall": 0.0,
+      "precision": 0,
+      "f1_score": 0,
+      "num_risks_identified": 0,
+      "parsed_risks": []
+    }
+  },
+  {
+    "model": "gpt2-medium",
+    "scenario_id": "E02",
+    "difficulty": "easy",
+    "response": "Severity: ...\n\nExplanation: ...\n\nRisk 3: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 4: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 5: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 6: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 7: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 8: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 9: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 10: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 11: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 12: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 13: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 14: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 15: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 16: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 17: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 18: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 19: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 20: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 21: ...",
+    "metrics": {
+      "recall": 0.0,
+      "precision": 0,
+      "f1_score": 0,
+      "num_risks_identified": 0,
+      "parsed_risks": []
+    }
+  },
+  {
+    "model": "gpt2-medium",
+    "scenario_id": "E03",
+    "difficulty": "easy",
+    "response": "Severity: [level]\n\nExplanation: [reasoning]\n\nRisk 3: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 4: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 5: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 6: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 7: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 8: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 9: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 10: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 11: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 12: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 13: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 14: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 15: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 16: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 17: ...\n\nSeverity: [level]",
+    "metrics": {
+      "recall": 0.0,
+      "precision": 0,
+      "f1_score": 0,
+      "num_risks_identified": 0,
+      "parsed_risks": []
+    }
+  },
+  {
+    "model": "gpt2-medium",
+    "scenario_id": "E04",
+    "difficulty": "easy",
+    "response": "Severity: [level]\n\nExplanation: [reasoning]\n\nRisk 3: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 4: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 5: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 6: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 7: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 8: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 9: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 10: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 11: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 12: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 13: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 14: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 15: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 16: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 17: ...\n\nSeverity: [level]",
+    "metrics": {
+      "recall": 0.0,
+      "precision": 0,
+      "f1_score": 0,
+      "num_risks_identified": 0,
+      "parsed_risks": []
+    }
+  },
+  {
+    "model": "gpt2-medium",
+    "scenario_id": "E05",
+    "difficulty": "easy",
+    "response": "Severity: ...\n\nExplanation: ...\n\nRisk 3: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 4: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 5: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 6: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 7: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 8: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 9: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 10: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 11: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 12: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 13: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 14: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 15: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 16: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 17: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 18: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 19: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 20: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 21: ...",
+    "metrics": {
+      "recall": 0.0,
+      "precision": 0,
+      "f1_score": 0,
+      "num_risks_identified": 0,
+      "parsed_risks": []
+    }
+  },
+  {
+    "model": "gpt2-medium",
+    "scenario_id": "M01",
+    "difficulty": "medium",
+    "response": "Severity: [level]\n\nExplanation: [reasoning]\n\nRisk 3: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 4: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 5: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 6: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 7: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 8: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 9: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 10: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 11: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 12: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 13: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 14: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 15: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 16: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 17: ...\n\nSeverity: [level]",
+    "metrics": {
+      "recall": 0.0,
+      "precision": 0,
+      "f1_score": 0,
+      "num_risks_identified": 0,
+      "parsed_risks": []
+    }
+  },
+  {
+    "model": "gpt2-medium",
+    "scenario_id": "M02",
+    "difficulty": "medium",
+    "response": "Severity: [level]\n\nExplanation: [reasoning]\n\nRisk 3: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 4: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 5: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 6: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 7: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 8: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 9: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 10: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 11: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 12: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 13: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 14: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 15: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 16: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 17: ...\n\nSeverity: [level]",
+    "metrics": {
+      "recall": 0.0,
+      "precision": 0,
+      "f1_score": 0,
+      "num_risks_identified": 0,
+      "parsed_risks": []
+    }
+  },
+  {
+    "model": "gpt2-medium",
+    "scenario_id": "M03",
+    "difficulty": "medium",
+    "response": "Severity: ...\n\nExplanation: ...\n\nRisk 3: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 4: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 5: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 6: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 7: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 8: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 9: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 10: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 11: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 12: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 13: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 14: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 15: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 16: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 17: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 18: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 19: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 20: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 21: ...",
+    "metrics": {
+      "recall": 0.0,
+      "precision": 0,
+      "f1_score": 0,
+      "num_risks_identified": 0,
+      "parsed_risks": []
+    }
+  },
+  {
+    "model": "gpt2-medium",
+    "scenario_id": "M04",
+    "difficulty": "medium",
+    "response": "Severity: ...\n\nExplanation: ...\n\nRisk 3: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 4: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 5: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 6: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 7: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 8: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 9: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 10: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 11: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 12: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 13: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 14: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 15: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 16: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 17: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 18: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 19: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 20: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 21: ...",
+    "metrics": {
+      "recall": 0.0,
+      "precision": 0,
+      "f1_score": 0,
+      "num_risks_identified": 0,
+      "parsed_risks": []
+    }
+  },
+  {
+    "model": "gpt2-medium",
+    "scenario_id": "M05",
+    "difficulty": "medium",
+    "response": "Severity: [level]\n\nExplanation: [reasoning]\n\nRisk 3: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 4: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 5: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 6: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 7: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 8: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 9: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 10: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 11: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 12: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 13: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 14: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 15: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 16: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 17: ...\n\nSeverity: [level]",
+    "metrics": {
+      "recall": 0.0,
+      "precision": 0,
+      "f1_score": 0,
+      "num_risks_identified": 0,
+      "parsed_risks": []
+    }
+  },
+  {
+    "model": "gpt2-medium",
+    "scenario_id": "H01",
+    "difficulty": "hard",
+    "response": "Severity: ...\n\nExplanation: ...\n\nRisk 3: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 4: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 5: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 6: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 7: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 8: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 9: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 10: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 11: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 12: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 13: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 14: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 15: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 16: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 17: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 18: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 19: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 20: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 21: ...",
+    "metrics": {
+      "recall": 0.0,
+      "precision": 0,
+      "f1_score": 0,
+      "num_risks_identified": 0,
+      "parsed_risks": []
+    }
+  },
+  {
+    "model": "gpt2-medium",
+    "scenario_id": "H02",
+    "difficulty": "hard",
+    "response": "Severity: ...\n\nExplanation: ...\n\nRisk 3: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 4: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 5: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 6: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 7: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 8: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 9: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 10: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 11: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 12: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 13: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 14: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 15: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 16: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 17: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 18: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 19: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 20: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 21: ...",
+    "metrics": {
+      "recall": 0.0,
+      "precision": 0,
+      "f1_score": 0,
+      "num_risks_identified": 0,
+      "parsed_risks": []
+    }
+  },
+  {
+    "model": "gpt2-medium",
+    "scenario_id": "H03",
+    "difficulty": "hard",
+    "response": "Severity: ...\n\nExplanation: ...\n\nRisk 3: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 4: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 5: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 6: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 7: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 8: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 9: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 10: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 11: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 12: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 13: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 14: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 15: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 16: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 17: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 18: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 19: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 20: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 21: ...",
+    "metrics": {
+      "recall": 0.0,
+      "precision": 0,
+      "f1_score": 0,
+      "num_risks_identified": 0,
+      "parsed_risks": []
+    }
+  },
+  {
+    "model": "gpt2-medium",
+    "scenario_id": "H04",
+    "difficulty": "hard",
+    "response": "Severity: ...\n\nExplanation: ...\n\nRisk 3: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 4: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 5: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 6: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 7: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 8: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 9: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 10: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 11: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 12: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 13: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 14: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 15: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 16: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 17: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 18: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 19: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 20: ...\n\nSeverity: ...\n\nExplanation: ...\n\nRisk 21: ...",
+    "metrics": {
+      "recall": 0.0,
+      "precision": 0,
+      "f1_score": 0,
+      "num_risks_identified": 0,
+      "parsed_risks": []
+    }
+  },
+  {
+    "model": "gpt2-medium",
+    "scenario_id": "H05",
+    "difficulty": "hard",
+    "response": "Severity: [level]\n\nExplanation: [reasoning]\n\nRisk 3: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 4: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 5: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 6: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 7: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 8: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 9: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 10: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 11: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 12: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 13: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 14: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 15: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 16: ...\n\nSeverity: [level]\n\nExplanation: [reasoning]\n\nRisk 17: ...\n\nSeverity: [level]",
+    "metrics": {
+      "recall": 0.0,
+      "precision": 0,
+      "f1_score": 0,
+      "num_risks_identified": 0,
+      "parsed_risks": []
+    }
+  }
+]
